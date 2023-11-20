@@ -28,7 +28,7 @@ Version Control with GIT: Adept at utilizing GIT for streamlined collaboration a
 
 Frontend Wizardry: Skillful in crafting responsive and visually appealing interfaces with HTML, CSS and twig.
 
-Why Programming?
+# Why Programming?
 
 Ever since I embarked on my journey as a programmer, I've been fascinated by the ability to transform ideas into functional, tangible solutions. The dynamic nature of programming, coupled with the ever-evolving technological landscape, continuously fuels my curiosity and passion for creating impactful software.
 
@@ -71,6 +71,8 @@ Developed a news web app using PHP and the Twig templating engine, following the
 
 • Demonstrated strong problem-solving skills and attention to coding best practices, ensuring clean and maintainable code.
 
+# Contacts
+Let's code the future together! 
 
-Let's code the future together! [LinkedIn](https://www.linkedin.com/in/yourname) | ivita.bite@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yourname) | ivita.bite@gmail.com
 
